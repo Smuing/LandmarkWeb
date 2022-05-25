@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LandmarkWeb/static/css/main.4fb3803e.chunk.css",
-    "main.js": "/LandmarkWeb/static/js/main.787af042.chunk.js",
-    "main.js.map": "/LandmarkWeb/static/js/main.787af042.chunk.js.map",
+    "main.js": "/LandmarkWeb/static/js/main.b61434ed.chunk.js",
+    "main.js.map": "/LandmarkWeb/static/js/main.b61434ed.chunk.js.map",
     "runtime-main.js": "/LandmarkWeb/static/js/runtime-main.b46007a7.js",
     "runtime-main.js.map": "/LandmarkWeb/static/js/runtime-main.b46007a7.js.map",
     "static/js/2.7113190d.chunk.js": "/LandmarkWeb/static/js/2.7113190d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b46007a7.js",
     "static/js/2.7113190d.chunk.js",
     "static/css/main.4fb3803e.chunk.css",
-    "static/js/main.787af042.chunk.js"
+    "static/js/main.b61434ed.chunk.js"
   ]
 }
